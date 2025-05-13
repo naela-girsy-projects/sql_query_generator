@@ -1,0 +1,30 @@
+{
+  "users": [
+    "id",
+    "name",
+    "email",
+    "age",
+    "created_at"
+  ],
+  "products": [
+    "id",
+    "name",
+    "price",
+    "category",
+    "description"
+  ],
+  "orders": [
+    "id",
+    "user_id",
+    "total",
+    "status",
+    "order_date"
+  ],
+  "customers": [
+    "id",
+    "name",
+    "address",
+    "phone",
+    "email"
+  ]
+}
